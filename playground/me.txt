@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ritesh
+Skills: HTML, CSS, PYTHON, CORE JAVA, POSTMAN, JIRA
+Email: Ishitajn3@gmail.com
+{{/user}}
